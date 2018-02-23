@@ -15,7 +15,7 @@
 using namespace std;
 
 class Shader
-{
+{ public:
 	GLuint getID(); //Obtener el ID del shader
 	Shader(const char * rutaVertx, const char * rutaFragment);
 	void enlazarShader();

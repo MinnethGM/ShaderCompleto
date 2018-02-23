@@ -2,7 +2,7 @@
 //version
 
 //atributos
-out vec4salidaColor;
+out vec4 salidaColor;
 
 //Funcion main
 void main()
